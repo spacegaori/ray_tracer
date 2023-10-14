@@ -1,0 +1,3 @@
+/Users/spacegaori/projects/ray_tracer/CMakeFiles/inOneWeekend.dir
+/Users/spacegaori/projects/ray_tracer/CMakeFiles/edit_cache.dir
+/Users/spacegaori/projects/ray_tracer/CMakeFiles/rebuild_cache.dir
